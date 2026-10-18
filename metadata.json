@@ -1,0 +1,6 @@
+{
+  "name": "Hope Foundation - Together We Can Change Lives",
+  "description": "Premier international NGO website dedicated to food distribution, healthcare, child education, disaster relief, medical camps, and community development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
